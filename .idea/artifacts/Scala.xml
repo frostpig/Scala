@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Scala">
+    <output-path>$PROJECT_DIR$/out/artifacts/Scala</output-path>
+    <root id="root">
+      <element id="archive" name="Scala.jar">
+        <element id="module-output" name="Scala" />
+      </element>
+    </root>
+  </artifact>
+</component>
