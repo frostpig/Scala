@@ -30,6 +30,6 @@ object Timer {
 
     oncePerSecond(() => print("time flies like an arrow"))
   }
-
+""
 
 }
